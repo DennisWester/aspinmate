@@ -1,4 +1,4 @@
-# spinhamiltapp
+# aspinmate
 Application visualising spin hamiltonians and changes in some parameters.
 Starting the spinapp.py script you need a python3.10 (or newer) on your computer. 
 Then add the packages numpy, matplotlib and customtkinter. 
